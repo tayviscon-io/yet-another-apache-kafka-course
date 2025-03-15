@@ -1,0 +1,14 @@
+type: marketplace
+title: Yet Another Apache Kafka Course
+language: Russian
+summary: Курс посвящен изучению основ работы с Apache Kafka с целью пониманию принципов
+  работы с платформой для передачи и обработки событий в реальном времени.
+programming_language: Java
+content:
+  - introduction
+environment_settings:
+  jvm_language_level: JDK_21
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+yaml_version: 2
