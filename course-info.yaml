@@ -11,4 +11,6 @@ environment_settings:
 additional_files:
   - name: build.gradle
   - name: settings.gradle
+  - name: README.md
+  - name: common/image/apache-kafka-logo.svg
 yaml_version: 2
