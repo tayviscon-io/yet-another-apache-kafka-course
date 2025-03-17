@@ -4,7 +4,7 @@
 [![Official Project](https://img.shields.io/badge/Tayviscon_IO-official-%2363B175)](https://github.com/tayviscon-io/.github/blob/main/profile/README.md#tayviscon-io-github)
 
 **Yet Another Apache Kafka Course** - это курс от компании [Tayviscon IO](https://github.com/tayviscon-io)
-из серии «Yet Another Course», рассказывающий об основах такой технологии, как Apache Kafka.
+из серии «[Yet Another Course](https://github.com/tayviscon-io/yet-another-course)», рассказывающий об основах такой технологии, как Apache Kafka.
 Цель данного курса научить использовать платформу Apache Kafka для передачи и обработки событий реального времени,
 а также сделать процессы отслеживания метрик и настройки отказоустойчивого кластера понятными каждому.
 
